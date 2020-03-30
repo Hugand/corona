@@ -1,10 +1,10 @@
 const s = 4
-const nSquares = 500
+const nSquares = 300
 const w = s*nSquares
 let a
 
 let people = []
-const nPeople = 20000
+const nPeople = 8000
 
 let timePassed = 0
 let timeToDevInfection = 10
